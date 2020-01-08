@@ -1,0 +1,9 @@
+.wyp{
+  float: left;
+  margin: 15px;
+}
+.wyp img{
+  margin: 5px;
+  max-height: 50px;
+ max-width:auto;
+}
